@@ -1,6 +1,6 @@
 # Adidas US Sales Project Using Machine Learning
 
-Overview
+* Overview: 
 The Adidas US Sales Project aims to analyze sales trends and identify successful products based on mock sales data from Adidas products in the United States for the years 2020-2021. This project utilizes machine learning techniques to derive insights from the dataset, which includes various attributes related to sales, retailers, and products.
 
 Problem Statement
